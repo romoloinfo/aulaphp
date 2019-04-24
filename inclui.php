@@ -11,7 +11,7 @@
 <p>Data de nascimento</p>
 <input type=date name=datadenascimento1>
 <p>Salario</p>
-<input type="text" name="salario1" value="$" >
+<input type="text" name="salario1" value="R$" >
 <br><br>
 <input type=submit value=Salvar>
 </form> 
